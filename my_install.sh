@@ -2,7 +2,7 @@
 # author: gfw-breaker
 
 path=/ray
-uuid=3579436c-b37e-11eb-8529-0242ac130003
+uuid=29a41152-1f2a-4197-8dc4-d057557f74d4
 
 yum install -y git
 git clone https://github.com/gfw-breaker/easy-v2ray.git
